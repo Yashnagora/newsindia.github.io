@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "IPL 2023: We will work on increasing Arjun Tendulkar's pace, says Shane Bond - Times of India",
+            "description": "Cricket News: Mumbai Indians' bowling coach and former New Zealand pacer Shane Bond has said he will be working on increasing the pace of Arjun Tendulkar. Arjun , w",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/gt-vs-mi-ipl-2023-we-will-work-on-increasing-arjun-tendulkars-pace-says-shane-bond/articleshow/99781400.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-99781379,width-1070,height-580,imgsize-57878,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-04-26T07:34:00Z",
+            "content": "Gujarat Titans vs Mumbai Indians IPL 2023 Highlights: GT beat MI by 55 runs"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Gavaskar drops ‘Rahane’ truth bomb, makes surprise pick for India's WTC Final XI - Hindustan Times",
+            "description": "Sunil Gavaskar has shared his views about Ajinkya Rahane's return to the Indian side for the World Test Championship final against Australia. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/gavaskar-drops-ajinkya-rahane-truth-bomb-makes-surprise-pick-for-india-s-xi-for-wtc-final-vs-australia-101682456436406.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/25/1600x900/Collage_Maker-26-Apr-2023-03-40-AM-5708_1682460728400_1682460736662.jpg",
+            "publishedAt": "2023-04-26T03:39:25Z",
+            "content": "Does a veteran of 82 Test matches audition for his place by plying trade in T20 cricket? The curious case of Ajinkya Rahane was a major talking point in the cricket spectrum when the Chennai Super Ki… [+2664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Diljit Dosanjh To Trolls On His Coachella Comment: \"Please Google...\" - NDTV Movies",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com/",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2023-04-26T03:19:53Z",
+            "content": null
+        }
+    ]
+}
